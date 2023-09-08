@@ -1,0 +1,8 @@
+
+*{
+    display: flex;
+    margin: 0;
+}
+.navbar{
+    display: flex;
+}
